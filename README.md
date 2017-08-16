@@ -1,2 +1,7 @@
 # RMCustomTabbarController
-自定义tatabbar
+
+CocoaPods
+Add pod 'RMCustomTabbarController'
+
+Run pod install or pod update.
+
