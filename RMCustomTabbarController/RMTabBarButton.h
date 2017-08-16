@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "UIColor+HEX.h"
 
 #define kFontSize 11 //文字的大小
 #define kCenterItemWidth 60 //centerButton W

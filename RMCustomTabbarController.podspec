@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "RMCustomTabbarController"
-    s.version      = "1.0.1"
+    s.version      = "1.0.0"
     s.summary      = "custom RMTabBar"
     s.homepage     = "https://github.com/raomengchen/RMCustomTabbarController"
     s.license      = "MIT"
